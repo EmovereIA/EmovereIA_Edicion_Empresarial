@@ -107,7 +107,7 @@ Redistribución no autorizada está prohibida
 Empresa: EmovereIA Corporation
 Área: Dirección de Desarrollo Emocional IA
 Correo: supremos721@gmail.com
-GitHub: 
+GitHub: https://github.com/EmovereIA/EmovereIA_Edicion_Empresarial
 
 
 ---
@@ -133,8 +133,9 @@ README con instrucciones completas
 📧 Contacto para obtener el ZIP completo: supremos721@gmail.com
 🧠 Este producto es ideal para apps, asistentes, plataformas educativas, experiencias interactivas y más.
 
-🔗 Vista previa del contenido (sin mostrar el código):
-📂 Ver contenido en Google Drive
+
+🔗 **Vista previa del contenido (sin código):**  
+[📂 Ver contenido del ZIP en Google Drive](https://drive.google.com/file/d/1Ba57M-U-NytGewAPoA-HhBJrPZdaRIPz/view?usp=sharing)
 
 > 📦 El archivo ZIP funcional se entrega directamente por correo tras confirmar el pago.
 Uso autorizado bajo licencia individual. Redistribución no permitida.
