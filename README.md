@@ -130,7 +130,7 @@ Personalidad emocional integrada
 README con instrucciones completas
 
 
-📧 Contacto para obtener el ZIP completo: supremos721@gmail.com
+📧 Contacto para obtener el ZIP completo: reinaldobenavides89@gmail.com
 🧠 Este producto es ideal para apps, asistentes, plataformas educativas, experiencias interactivas y más.
 
 
