@@ -116,7 +116,7 @@ GitHub: https://github.com/EmovereIA/EmovereIA_Edicion_Empresarial
 
 🎁 Paquete profesional disponible para compra
 
-💵 Precio único: $99 USD
+💵 Precio único: $59 USD
 🔹 Incluye:
 
 200 módulos emocionales personalizados
